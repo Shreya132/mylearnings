@@ -1,5 +1,4 @@
-
-#include <stdio.h>
+﻿#include <stdio.h>
 int main(){
 int arr[5]={10 ,25, 7 ,42 ,18};
 int max=arr[0];

@@ -1,4 +1,4 @@
-name="Shreya"
+﻿name="Shreya"
 age=19
 course="artificial intelligence and data science"
 print(name)
@@ -57,4 +57,3 @@ elif percentage >= 60:
     print("Grade: D")
 else:
     print("Grade: F")
-
